@@ -2,8 +2,8 @@
 
 ## Deluge
 
-vedi [qui](esercizi_deluge.md) le tracce.
+vedi [qui](esercizi-deluge.md) le tracce.
 
 ## Widget
 
-vedi [qui](esercizi_widget.md) le tracce.
+vedi [qui](esercizi-widget.md) le tracce.
