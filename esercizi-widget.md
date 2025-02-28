@@ -146,3 +146,37 @@ Realizzare un secondo widget (nel modulo clienti, come related list) utilizzando
 ![image](https://github.com/crmpartners/esercizi-formazione/assets/37340833/13f76592-b0ab-4150-b196-6f4b46d2ba65)
 
 N.B.: utilizza la libreria grafica [widget-factory](https://github.com/crmpartners/widget-factory), se manca un componente aggiungilo custom.
+
+## ES 6
+
+Esercizio: Sviluppo di un Widget per Zoho CRM con Generazione PDF
+
+Obiettivo:
+
+Sviluppare un widget personalizzato per Zoho CRM che:
+
+1. Recuperi una un record di Zoho CRM (es. Leads o Opportunità).
+2. Formatti i dati in un documento utilizzando le API di Zoho Writer.
+3. Generi un PDF e lo renda disponibile per il download all’interno del widget.
+
+Requisiti Tecnici:
+
+- Stack Tecnologico: React, Typescript, Zoho CRM SDK, Zoho Writer API
+
+Chiamate API:
+
+- Zoho CRM coql per ottenere i dati del record
+- Zoho Writer API per creare e convertire il documento in PDF (merge document)
+
+Passaggi da Sviluppare:
+
+1. Creare il widget all’interno di Zoho CRM usando il proprio ambiente di sviluppo.
+2. Ottenere il record dal modulo CRM scelto (ad esempio Leads).
+3. Strutturare i dati per la generazione del documento (visualizzare il dettaglio).
+4. Utilizzare Zoho Writer API per creare un documento con i dati del record.
+5. Convertire il documento in PDF e fornire un link di download.
+
+Extra (Opzionale):
+
+- Aggiungere filtri per scegliere solo alcuni dati.
+- Salvare il PDF come allegato nel CRM.
