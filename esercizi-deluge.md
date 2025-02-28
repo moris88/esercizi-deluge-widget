@@ -35,16 +35,14 @@ Dichiarare una lista di 10 numeri. Per ogni elemento della lista verificare che:
 
 - Creare una funzione associata a un bottone (all'interno di un record di visualizzazione) nel modulo Contatti, al click la funzione deve recuperare il nome dell'azienda collegata (se presente) e sul servizio di Zoho chiamato "Project", all'interno del progetto chiamato "prova", creare un task con lo stesso nome dell'azienda, status "Attivo" e scadenza tra una settimana dalla creazione del task.
 
-Aiuto: utilizzare le integration task di [zoho project](https://www.zoho.com/deluge/help/projects/create.html) per creare un task su project.
-
+Aiuto 1: utilizzare le integration task di [zoho project](https://www.zoho.com/deluge/help/projects/create.html) per creare un task su project.
 Aiuto 2: per creare una funzione su un bottone, andare su configurazione -> cerca la voce "collegamenti e pulsanti" e cliccare su nuovo pulsante
 
 ## ES 6
 
 - Creare una funzione che si triggera alla modifica di un qualsiasi campo di un record del modulo affari e salvi tutti i campi in formato json in un file sul servizio di Zoho "Workdrive" e carichi una copia di esso nella Related list "allegati" dello stesso record.
 
-Aiuto: utilizzare le integration task di [zoho workdrive](https://www.zoho.com/deluge/help/workdrive/upload-file.html) per creare un file su workdrive.
-
+Aiuto 1: utilizzare le integration task di [zoho workdrive](https://www.zoho.com/deluge/help/workdrive/upload-file.html) per creare un file su workdrive.
 Aiuto 2: utilizzare le integration task di [zoho crm](https://www.zoho.com/deluge/help/crm/attach-file.html) per allegare un file nella related list "Allegati" di un record.
 
 ## ES 7
