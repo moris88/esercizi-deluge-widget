@@ -83,8 +83,6 @@ Realizzare un widget-demo utilizzando il template-widget-zoho della cli aziendal
 - lista tabellare dei record del modulo (solo tre campi: nome, cognome, email);
 - cliccando su un record dalla tabella far comparire un modale con dettagli del record selezionato (almeno 8 campi a piacere);
 
-N.B.: se possibile utilizza la libreria grafica [widget-factory](https://github.com/crmpartners/widget-factory).
-
 ## ES 4
 
 Realizzare un widget-demo utilizzando il template-widget-zoho della cli aziendale, per realizzare un widget (installarlo sul modulo affari, in una related list), che faccia:
@@ -145,7 +143,7 @@ Realizzare un secondo widget (nel modulo clienti, come related list) utilizzando
 
 ![image](https://github.com/crmpartners/esercizi-formazione/assets/37340833/13f76592-b0ab-4150-b196-6f4b46d2ba65)
 
-N.B.: utilizza la libreria grafica [widget-factory](https://github.com/crmpartners/widget-factory), se manca un componente aggiungilo custom.
+N.B.: utilizza tailwind css.
 
 ## ES 6
 
@@ -176,7 +174,7 @@ Passaggi da Sviluppare:
 4. Utilizzare Zoho Writer API per creare un documento con i dati del record.
 5. Convertire il documento in PDF e fornire un link di download.
 
-Extra (Opzionale):
+Extra (Opzionale ma graditi):
 
 - Aggiungere filtri per scegliere solo alcuni dati.
 - Salvare il PDF come allegato nel CRM.
