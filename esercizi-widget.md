@@ -1,6 +1,12 @@
 # esercizi-widget
 
-Creare in questa repository su github, un branch con nome "esercizio X widget", X sta per il numero dell'esercizio, e per ogni branch (esercizio) creare un projectto react. Scrivere il codice su ambiente VSCODE e una volta testata il codice eseguire un commit e push da riga di comando/app desktop.
+Creare in questa repository su github, un branch con nome "esercizio X widget", X sta per il numero dell'esercizio, e per ogni branch (esercizio) creare un progetto react. Scrivere il codice su ambiente VSCODE e una volta testata il codice eseguire un commit e push da riga di comando/app desktop.
+
+### REQUISITI
+
+- Linguaggio di programmazione: Javascript;
+- Basi di React;
+- HTML e CSS.
 
 ## ES 1
 
